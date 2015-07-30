@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello world ");
-    return 0;
+int a,b;
+int sum;
+scanf("%d %d",&a,&b);
+return 0;
+    
+
+
 }
